@@ -1,0 +1,12 @@
+FLOWCHART FOR LIBRARY MANAGEMENT SYSTEM
+
+[Start] | v [Display Menu] | v [Read Choice] | +—-(1)—-> [Add Book] —->
+[Return to Menu] | +—-(2)—-> [Add Member] –> [Return to Menu] |
++—-(3)—-> [Search Book] -> [Return to Menu] | +—-(4)—-> [Issue Book] –>
+[Return to Menu] | +—-(5)—-> [Return Book] -> [Return to Menu] |
++—-(6)—-> [Display Books] -> [Return to Menu] | +—-(7)—-> [Display
+Members] -> [Return to Menu] | +—-(8)—-> [Exit] | v [End]
+
+DESCRIPTION: - Program shows a menu with options 1–8. - User enters a
+choice. - Each option calls a specific function. - After completing the
+action, control returns to the menu. - Option 8 terminates the program.
