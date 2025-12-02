@@ -1,0 +1,23 @@
+# Ignore compiled binaries
+library
+*.exe
+*.out
+*.o
+
+# Ignore editor/IDE files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
